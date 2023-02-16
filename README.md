@@ -1,4 +1,4 @@
-# dumb-malware-scripts
+# dumb-scripts
 Some simple and harmless malwares / jokewares scripts written with ECHO notepad commands
 
 1.cmd green bombing
